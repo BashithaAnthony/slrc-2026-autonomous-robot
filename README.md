@@ -35,3 +35,5 @@ Autonomous mobile robotic system developed for the Sri Lanka Robotics Challenge 
 ## Project Status
 
 Completed
+
+Results - Finalists
