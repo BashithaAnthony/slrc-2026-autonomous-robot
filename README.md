@@ -2,7 +2,9 @@
 
 ## Overview
 
-Autonomous mobile robotic system developed for the Sri Lanka Robotics Challenge (SLRC 2026). The robot utilizes computer vision, machine learning, and embedded control systems to perform autonomous navigation and task execution.
+Autonomous mobile robotic system developed for the Sri Lanka Robotics Challenge (SLRC 2026). The robot utilizes computer vision, machine learning, and embedded control systems and many more technologies to perform autonomous navigation and task execution.
+
+![Robot Overview](media/images/final_robot_design_0.jpg)
 
 ## Features
 
