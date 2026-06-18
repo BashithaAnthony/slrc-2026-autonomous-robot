@@ -1,4 +1,4 @@
-# SLRC 2026 – Autonomous Vision-Based Robotic System
+# SLRC 2026 – Autonomous Vision-Based Robotic System - Team BUMBLEBEE
 
 ## Overview
 
@@ -38,4 +38,4 @@ Autonomous mobile robotic system developed for the Sri Lanka Robotics Challenge 
 
 Completed
 
-Results - Finalists
+Results - Finalists (Team BUMBLEBEE)
